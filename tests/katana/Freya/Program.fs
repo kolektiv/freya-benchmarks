@@ -1,5 +1,6 @@
 ﻿open Freya.Core
 open Freya.Machines.Http
+open Freya.Optics.Http
 open Freya.Routers.Uri.Template
 
 let name =

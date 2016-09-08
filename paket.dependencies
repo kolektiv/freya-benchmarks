@@ -16,7 +16,7 @@ group Test
 
   framework: >= net45
   source http://nuget.org/api/v2
-
+  
   // Freya
 
   nuget Freya       ~> 3.0.0-rc
